@@ -1,0 +1,27 @@
+{
+  "name": "sip9-audit-tool",
+  "version": "1.0.0",
+  "description": "audit tool",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navillasa/sip9-audit-tool.git"
+  },
+  "keywords": [
+    "storj",
+    "audit"
+  ],
+  "author": "storj team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navillasa/sip9-audit-tool/issues"
+  },
+  "homepage": "https://github.com/navillasa/sip9-audit-tool#readme"
+}
