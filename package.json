@@ -2,7 +2,7 @@
   "name": "sip9-audit-tool",
   "version": "1.0.0",
   "description": "audit tool",
-  "main": "index.js",
+  "main": "audit.js",
   "dependencies": {
     "commander": "^2.15.1"
   },
